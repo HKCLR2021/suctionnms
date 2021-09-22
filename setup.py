@@ -1,7 +1,7 @@
 # // Code Written by Hanwen Cao
 
 from distutils.core import setup
-
+import setuptools
 from Cython.Build import cythonize
 import numpy
 
