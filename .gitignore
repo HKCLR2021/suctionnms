@@ -2,3 +2,4 @@
 **/__pycache__
 build
 *.so
+suction_nms.cpp
